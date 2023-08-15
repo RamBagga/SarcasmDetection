@@ -24,7 +24,7 @@ To get started with the project, follow these steps:
 
 Clone this repository to your local machine.
 
-git clone https://github.com/your-username/sarcasm-detection.git
+git clone git@github.com:RamBagga/SarcasmDetection.git
 Install the required dependencies. 
 
 # Usage
