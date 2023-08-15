@@ -9,8 +9,10 @@ Welcome to the Sarcasm Detection in News Headlines project repository. The goal 
 ## Getting Started
 ## Usage
 ## Contributing
-## License
-## Project Overview
+
+
+
+# Project Overview
 Sarcasm detection is a challenging task in natural language processing. This project aims to build a machine-learning model that can identify sarcasm in news headlines. 
 
 # Dataset
@@ -41,7 +43,3 @@ Push your changes to your fork.
 git push origin feature/new-feature
 Open a pull request on the main repository, describing your changes in detail.
 
-# License
-This project is licensed under the MIT License. Feel free to use and modify the code as per the terms of the license.
-
-Thank you for your interest in the "Sarcasm Detection in News Headlines" project. If you have any questions, concerns, or suggestions, please don't hesitate to contact us or open an issue in the repository. We hope this tool proves to be valuable for your natural language processing endeavors. Happy coding!
