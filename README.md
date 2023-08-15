@@ -8,7 +8,6 @@ Welcome to the Sarcasm Detection in News Headlines project repository. The goal 
 ## Model Building
 ## Getting Started
 ## Usage
-## Contributing
 
 
 
