@@ -1,6 +1,6 @@
 # Sarcasm Detection in News Headlines
 
-Welcome to the "Sarcasm Detection in News Headlines" project repository. The goal of this project is to develop a tool that can accurately detect sarcasm in sentences, particularly focusing on news headlines. Sarcasm detection can have various applications, including sentiment analysis, social media monitoring, and more. In this repository, you will find the necessary resources and information to understand, reproduce, and contribute to the project.
+Welcome to the Sarcasm Detection in News Headlines project repository. The goal of this project is to develop a tool that can accurately detect sarcasm in sentences, particularly focusing on news headlines. Sarcasm detection can have various applications, including sentiment analysis, social media monitoring, and more. In this repository, you will find the necessary resources and information to understand, reproduce, and contribute to the project.
 
 # Table of Contents
 ## Project Overview
